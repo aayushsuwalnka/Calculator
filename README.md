@@ -40,8 +40,7 @@ Modular Functions → For clean readability and maintainability
 
 🖼️ Certificate
 
-You can view my official training certificate here:
-👉 {View Certificate}[certificate.png]
+👉 Click here to view my certificate
 
 🚀 How to Run
 
