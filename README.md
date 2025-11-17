@@ -39,7 +39,7 @@ Modular Functions → For clean readability and maintainability
     └── certificate.png
 
 🖼️ Certificate
-👉 Click here to view my certificate(https://github.com/aayushsuwalnka/Calculator/certificate.png)
+👉[ Click here to view my certificate](https://github.com/aayushsuwalnka/Calculator/blob/main/certificate.jpg)
 
 🚀 How to Run
 
